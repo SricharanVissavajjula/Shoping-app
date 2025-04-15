@@ -1,0 +1,9 @@
+<nav class="nav-bar">
+  <img class="logo-img" src="/images/logo.png" routerLink="/" alt="logo">
+  <button (click)="showCartItems()" routerLink="/cart" class="notification">
+    <span> 🛒 Cart</span>
+    <span class="badge">{{productCount}}</span>
+  </button>
+</nav>
+<app-carts></app-carts>
+<router-outlet/>

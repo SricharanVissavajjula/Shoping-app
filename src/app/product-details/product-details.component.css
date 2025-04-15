@@ -1,0 +1,20 @@
+.card{
+    width: 20rem;
+}
+.count{
+    float: right;
+    border: 1px solid rgb(101, 99, 99);
+    padding: 0.5rem 1rem;
+    background-color: rgb(195, 195, 250);
+    border-radius: 10px ;
+}
+.add{
+    border: 1px solid gray;
+    background-color: rgb(195, 195, 250);
+    padding: 8px;
+}
+.btn{
+    border: 1px solid black ;
+    padding:8px;
+    background-color: rgb(195, 195, 250);
+}

@@ -1,0 +1,61 @@
+{
+    "products-info": [
+        {
+            "id": 0,
+            "name": "Apple",
+            "description" : "xxxjklcfmnrjifmkcl",
+            "photo": "/images/apple.jpg",
+            "availableUnits": 40
+          },
+          {
+            "id": 1,
+            "name": "Banana",
+            "description" : "xxxjklcfmnrjifmkcl",
+            "photo": "/images/banana.jpg",
+            "availableUnits": 50
+          },
+          {
+            "id": 2,
+            "name": "Kurkure",
+            "description" : "xxxjklcfmnrjifmkcl",
+            "photo": "/images/kurkure.jpeg",
+            "availableUnits": 50
+          },
+          {
+            "id": 3,
+            "name": "Boost",
+            "description" : "xxxjklcfmnrjifmkcl",
+            "photo": "/images/boost.jpeg",
+            "availableUnits": 1
+          },
+          {
+            "id": 4,
+            "name": "Cucumber",
+            "description" : "xxxjkl,cfmnrjifmkcl",
+            "photo": "/images/cucumber.jpeg",
+            "availableUnits" : 1
+          },
+          {
+            "id": 5,
+            "name": "Cinpet Medicine",
+            "description" : "xxxjkl,cfmnrjifmkcl",
+            "photo": "/images/cinpet.jpeg",
+            "availableUnits": 20
+          },
+          {
+            "id": 6,
+            "name": "Strepsils",
+            "description" : "xxxjklcfmnrjifmkcl",
+            "photo": "/images/strepsils.jpeg",
+            "availableUnits": 50
+          },
+          {
+            "id": 7,
+            "name": "Tomato",
+            "description" : "xxxjkcfmnrjifmkcl",
+            "photo": "/images/tomato.jpeg",
+            "availableUnits": 20
+          }
+    ]
+
+}

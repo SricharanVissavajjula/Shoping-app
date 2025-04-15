@@ -1,0 +1,22 @@
+
+
+<div class="main-desc">
+
+    <h1>Welcome to shoping app!</h1>
+  <p>get your groceries, medicines, snacks, fruits</p>
+  <h3>in one place</h3>
+  </div>
+  
+
+<section>
+    <form>
+        <input type="text" placeholder="search for produce" />
+        <button class="primary" type="button">Search</button>
+    </form>
+</section>
+<section class="results">
+    <app-product-details *ngFor="let products of productList " [products]='products'>
+    </app-product-details>
+</section>
+
+
